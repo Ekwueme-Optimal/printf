@@ -1,7 +1,7 @@
 The _Prinf() Project 📁
 Alx -printf paired project
-OSSCO MAIKA BONIFACE AND CHARIT EKWUEME
-The _Prinf() Project 📁
+OSSCO MAIKA BONIFACE AND CHARITY EKWUEME
+
 
 A. TABLE OF CONTENT
 Task 0
